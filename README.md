@@ -21,6 +21,6 @@
 ###Resources
 This project was biult using [Unity3D](https://unity3d.com/) using a tutorial from Project 2 of the [Udacity Virtual Reality Nanodegree](https://classroom.udacity.com/nanodegrees/nd017/syllabus)
 
-####Contact
-My name is Tientcheu Larry, I took about 3 hours to complete this project, the things i liked the most was the setting up of lights and the positioning of various game objects. I found setting up the trigger for the animation challenging.
+###More Info
+I took about 3 hours to complete this project, the things i liked the most was the setting up of lights and the positioning of various game objects. I found setting up the trigger for the animation challenging.
 
